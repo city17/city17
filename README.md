@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Robbert - Front-end developer
 
-<!--
-**city17/city17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I share what I learn about NextJS, React, Framer Motion, and anything else front-end on [koro.dev](https://koro.dev).
 
-Here are some ideas to get you started:
+## Personal Site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![image](https://user-images.githubusercontent.com/13391662/133050852-dc5f7f1e-8d7a-4850-a7af-1da0aa0c5d44.png)](https://koro.dev)
+
+## Preferred Tech
+
+- NextJS
+- Framer Motion
+- Headless WP
