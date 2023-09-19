@@ -1,13 +1,10 @@
 ## Hi, I'm Robbert - Front-end developer
 
-I share what I learn about NextJS, React, Framer Motion, and anything else front-end on [koro.dev](https://koro.dev).
+I build interactive web apps and  websites at Studio Koro.
 
-## Personal Site
+Whether you're building a complex internal dashboard, or designing a new website with lots of animations, I can help.
 
-[![image](https://user-images.githubusercontent.com/13391662/133050852-dc5f7f1e-8d7a-4850-a7af-1da0aa0c5d44.png)](https://koro.dev)
+#### Visit my [Portfolio Website](https://studiokoro.com) for detailed examples of my work.
 
-## Preferred Tech
 
-- NextJS
-- Framer Motion
-- Headless WP
+<img width="1294" alt="Scherm­afbeelding 2023-09-19 om 14 21 30" src="https://github.com/city17/city17/assets/13391662/a175c905-9f17-464d-81ef-7ab5439b5895">
